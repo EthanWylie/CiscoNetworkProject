@@ -39,7 +39,7 @@ Designed and configured a small-business network using Cisco Packet Tracer. The 
 
 ## Routing
 
-R1 uses router-on-a-stick (Trunk) configuration to provide communication between VLANs.
+R1 uses router-on-a-stick configuration to provide communication between VLANs.
 
 * G0/0.10 → 10.0.10.1
 * G0/0.20 → 10.0.20.1
