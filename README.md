@@ -1,4 +1,4 @@
-# Cisco Small-Business Network
+# Small Business Network Infrastructure
 
 A Cisco Packet Tracer personal networking project demonstrating introductory Cisco networking skills.
 
